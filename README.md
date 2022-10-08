@@ -14,12 +14,9 @@ Social_Network_API
   - [Licence](#license)
 
   ## Project Description
-    My motivation for this project was to find ways to easily execute all functions using express and mongoose with mongoDB for a social media website. In this project some of the problems I solved were:
+  My motivation for this projects was to find ways to easily execute all functions using express and mongoose with mongoDB for a social media website. I used Insomnia to check may code.
 
-        Using modular code to set up routes through many directories
-        Use insomnia to test routes
-        Use mongoose syntax to execute functions
-
+    
   ## Installation
   This being a node.js app, you must first make sure your terminal can run this app by aquiring the needed packages. You will need npm installed, You will also need Mongoose installed.You will then need express. Once those dependencies are fitted, you're ready to begin usage.
 
